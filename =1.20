@@ -1,0 +1,26 @@
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... 
+The environment is inconsistent, please check the package plan carefully
+The following packages are causing the inconsistency:
+
+  - conda-forge/linux-64::cudatoolkit==11.1.1=hb139c0e_12
+done
+
+## Package Plan ##
+
+  environment location: /home/kespaans/.conda/envs/project
+
+  removed specs:
+    - numpy
+
+
+The following packages will be REMOVED:
+
+  h5py-3.1.0-nompi_py36hc1bc4f5_100
+  nibabel-4.0.2-pyhd8ed1ab_0
+  numpy-1.19.5-py36hfc0c790_2
+  pytorch-1.8.1-py3.6_cuda11.1_cudnn8.0.5_0
+  scipy-1.5.3-py36h976291a_0
+
+
+Proceed ([y]/n)? 
