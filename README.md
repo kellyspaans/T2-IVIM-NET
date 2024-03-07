@@ -1,6 +1,4 @@
-# Project Name
-
-Estimating T2-Intra-Voxel Incoherent Motion (IVIM) parameters in stroke patients two years post-onset using a T2-corrected extension of IVIM-NET.
+# Estimating T2-Intra-Voxel Incoherent Motion (IVIM) parameters in stroke patients two years post-onset using a T2-corrected extension of IVIM-NET.
 
 14-02-2024
 By Kelly Spaans 
